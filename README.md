@@ -8,6 +8,8 @@ A comprehensive web-based virtual classroom solution designed to deliver an imme
 
 Virtual Classroom Platform is a modern educational tool that replicates the traditional classroom experience in a digital environment. By integrating real-time video conferencing, interactive whiteboards, and collaborative document sharing, we enable seamless communication between students and teachers regardless of physical location.
 
+Visit our platform: [https://fabulous-choux-035a20.netlify.app/](https://fabulous-choux-035a20.netlify.app/)
+
 ## Features
 
 ### 🎥 Video Conferencing
@@ -76,11 +78,13 @@ npm start
 
 ## Deployment
 
-The platform can be deployed to any modern hosting service that supports Node.js applications (Heroku, Vercel, AWS, etc.). Detailed deployment instructions can be found in the `DEPLOYMENT.md` file.
+The platform can be deployed to any modern hosting service that supports Node.js applications (Heroku, Vercel, AWS, etc.). Our current deployment is hosted on Netlify at [https://fabulous-choux-035a20.netlify.app/](https://fabulous-choux-035a20.netlify.app/).
 
-## Contributing
+## Team Members
 
-We welcome contributions from the community! Please read our `CONTRIBUTING.md` file for guidelines on how to submit pull requests, report issues, and suggest enhancements.
+- Mansi
+- Narsi
+- Ranjeet
 
 ## Roadmap
 
